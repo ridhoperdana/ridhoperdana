@@ -5,7 +5,7 @@
 You can call me __Ridho__!
 A Software Engineer with Backend speciality 💻
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ridhoperdana&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Latest Medium Posts](https://metcher.vercel.app/medium/feed?username=cync.perdana&num=3)]()
 
 ## Experiences and Skills
 
