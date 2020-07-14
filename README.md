@@ -5,7 +5,9 @@
 You can call me __Ridho__!
 A Software Engineer with Backend speciality 💻
 
-[![Latest Medium Posts](https://metcher.vercel.app/medium/feed?username=cync.perdana&num=3)]()
+## Latest Medium Posts
+
+[![Latest Medium Posts](https://metcher.vercel.app/medium/feed?username=cync.perdana&num=3)](https://github.com/ridhoperdana/metcher)
 
 ## Experiences and Skills
 
