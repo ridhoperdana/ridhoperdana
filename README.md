@@ -21,3 +21,7 @@ You can see the project [here](https://github.com/ridhoperdana/edompet)
 
 [![twitter](https://user-images.githubusercontent.com/13913371/87139070-98715280-c2c9-11ea-98e5-62272b0fa691.png)](https://twitter.com/cync48)
 [![linkedin](https://user-images.githubusercontent.com/13913371/87139245-d3738600-c2c9-11ea-8a2a-570f15a67132.png)](https://www.linkedin.com/in/ridhoperdana/)
+
+## Statistics
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ridhoperdana)](https://github.com/anuraghazra/github-readme-stats)
