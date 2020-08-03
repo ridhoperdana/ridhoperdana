@@ -7,7 +7,9 @@ A Software Engineer with Backend speciality 💻
 
 ## Latest Medium Posts
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cync.perdana/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cync.perdana/3" alt="Recent Articles">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cync.perdana/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cync.perdana/1" alt="Recent Article 1">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cync.perdana/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cync.perdana/2" alt="Recent Article 2">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@cync.perdana/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@cync.perdana/3" alt="Recent Article 3">
 
 ## Experiences and Skills
 
