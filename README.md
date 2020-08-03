@@ -7,7 +7,7 @@ A Software Engineer with Backend speciality 💻
 
 ## Latest Medium Posts
 
-[![Latest Medium Posts](https://metcher.vercel.app/medium/feed?username=cync.perdana&num=3)](https://github.com/ridhoperdana/metcher)
+[![Latest Medium Posts](https://github-readme-medium-recent-article.vercel.app/medium/cync.perdana/3)](https://github.com/ridhoperdana/metcher)
 
 ## Experiences and Skills
 
