@@ -20,8 +20,8 @@ A Software Engineer with Backend speciality 💻
 
 ## Current Interests
 
-- UX and Frontend things. For now I am building a Flutter App to help me learn about Frontend especially mobile App and its experience.
-You can see the project [here](https://github.com/ridhoperdana/edompet).
+- Exploring prompt to be better Prompt Engineer using existing AI.
+- Try to be fullstack engineer by learning React
 
 ## Social Medias
 
